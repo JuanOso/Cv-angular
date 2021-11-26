@@ -1,0 +1,43 @@
+.botonescv {
+    color: #bd5d38 ;
+    font-weight: 600;
+}
+
+.nav-pills .nav-link.active {
+    background-color: #bd5d38 !important
+
+}
+
+.redes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40px; 
+    height: 40px;
+}
+
+.redes:hover {
+    background-color: #bd5d38 !important;
+    cursor: pointer;
+}
+
+.iconos-tech {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40px; 
+    height: 40px;
+}
+
+.iconos-tech:hover {
+    background-color: #bd5d38 !important;
+}
+
+
+
+
+
+
+
+
+
